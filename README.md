@@ -1,5 +1,14 @@
-## Hi there 👋
+# 스스로 발전하는 개발자, 장경권입니다. 👋
 
+## Skils
+
+## About
+
+## Projects
+
+## Study
+
+## Career & Education
 <!--
 **ggjang/ggjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
